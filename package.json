@@ -12,7 +12,18 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
+<<<<<<< HEAD
     "morgan": "~1.9.1",
     "request": "^2.88.2"
   }
+=======
+    "mongodb": "^6.17.0",
+    "morgan": "~1.9.1"
+  },
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> b7cb5b9ce807410af64c785a52f78318fd33e058
 }
